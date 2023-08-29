@@ -1,1 +1,1 @@
-Data Structure Project
+A project in C++ built on fundamentals of DSA. In this project each ticket is stored as a node, and Doubly Linked List is used for adding, viewing and deleting the tickets. Apart from that sorting algorithms are also used such as bubble sort to sort prices. To run this project, the email is fahad1 and the password is abc123.
